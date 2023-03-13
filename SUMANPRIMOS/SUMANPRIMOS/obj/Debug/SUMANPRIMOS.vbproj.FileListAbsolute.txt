@@ -1,0 +1,20 @@
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.exe.config
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.pdb
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.xml
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.Form1.resources
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.Resources.resources
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.vbproj.GenerateResource.Cache
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.xml
+C:\Users\Administrador\AppData\Local\Temporary Projects\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\bin\Debug\SUMANPRIMOS.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\SUMANPRIMOS\SUMANPRIMOS\obj\Debug\SUMANPRIMOS.vbproj.GenerateResource.Cache
