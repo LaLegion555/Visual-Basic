@@ -1,0 +1,32 @@
+D:\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe.config
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.exe
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.xml
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.pdb
+D:\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe
+D:\JuegoVB\JuegoVB\bin\Debug\JuegoVB.pdb
+D:\JuegoVB\JuegoVB\bin\Debug\JuegoVB.xml
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Form1.resources
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Resources.resources
+D:\JuegoVB\JuegoVB\obj\Debug\JuegoVB.vbproj.GenerateResource.Cache
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe.config
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.exe
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.xml
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.pdb
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\bin\Debug\JuegoVB.pdb
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\bin\Debug\JuegoVB.xml
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Form1.resources
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Resources.resources
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.vbproj.GenerateResource.Cache
+C:\Users\Yohana\Desktop\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Inicio.resources
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe.config
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.exe
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.xml
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.pdb
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\bin\Debug\JuegoVB.exe
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\bin\Debug\JuegoVB.pdb
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\bin\Debug\JuegoVB.xml
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Form1.resources
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Inicio.resources
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.Resources.resources
+C:\Users\Administrador\Documents\JULIO ROMAN\JuegoVB\JuegoVB\obj\Debug\JuegoVB.vbproj.GenerateResource.Cache
